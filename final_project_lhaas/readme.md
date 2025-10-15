@@ -1,10 +1,9 @@
 # 🚦 Traffic Flow Prediction Project
 
-This repository contains all code used during the traffic prediction project. The goal was to develop and evaluate models capable of accurately predicting short-term traffic flow based on historical and spatial-temporal features.
-
+This repository contains all code used during the traffic prediction project. The goal was to develop and evaluate models capable of accurately predicting short-term traffic flow.
 ## 📂 Project Structure
 
-The codebase is organized to ensure a clear separation between training and evaluation, supporting reproducibility and modular experimentation.
+The codebase is organized to ensure a clear separation between training and evaluation.
 
 | Folder/File | Description |
 |--------------|-------------|
