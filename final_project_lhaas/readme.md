@@ -5,7 +5,7 @@ This repository contains all code used during the traffic prediction project. Th
 
 The codebase is organized to ensure a clear separation between training and evaluation.
 
-| Folder/File | Description |
+| File | Description |
 |--------------|-------------|
 | **`preprocessing_train.py`** | Preprocessing for training data. |
 | **`preprocessing_eval.py`** | Preprocessing for evaluation data. |
