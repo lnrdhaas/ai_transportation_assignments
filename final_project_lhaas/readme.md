@@ -7,7 +7,7 @@ The codebase is organized to ensure a clear separation between training and eval
 
 | Folder/File | Description |
 |--------------|-------------|
-| **`preprocessing_train.py`** | Preprocessing pipeline for training data. |
+| **`preprocessing_train.py`** | Preprocessing for training data. |
 | **`preprocessing_eval.py`** | Preprocessing for evaluation data. |
-| **`train_model.py`** | Model training and validation.. |
+| **`train_model.py`** | Model training and validation. |
 | **`evaluate_model.py`** | Evaluation of trained models on evaluation data. Generates metrics and visualizations for comparison. |
